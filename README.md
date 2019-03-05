@@ -7,4 +7,4 @@ Install & build sources
 `npm i`
 
 Run server
-`npm s`
+`npm start`
