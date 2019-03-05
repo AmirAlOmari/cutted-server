@@ -1,0 +1,22 @@
+{
+	"window.zoomLevel": 0,
+	"workbench.colorTheme": "Electron",
+	"git.confirmSync": false,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"tslint.alwaysShowRuleFailuresAsWarnings": true,
+	"editor.fontWeight": "100",
+	"git.enableSmartCommit": true,
+	"workbench.activityBar.visible": true,
+	"explorer.confirmDragAndDrop": false,
+	"workbench.sideBar.location": "left",
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.tslint": true,
+		"source.fixAll": true
+	},
+	"editor.formatOnSave": true,
+	"prettier.useTabs": true,
+	"gitlens.currentLine.enabled": false,
+	"gitlens.codeLens.enabled": false
+}

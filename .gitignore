@@ -1,0 +1,11 @@
+!**/.gitkeep
+
+node_modules
+_workspace
+static
+dest
+doc
+
+data/db/*
+
+{ PREINSTALL_TIMESTAMP_START }

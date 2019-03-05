@@ -1,0 +1,9 @@
+{
+	"__installCycleVariables": {
+		"_preinstallTimeFileName": "{ PREINSTALL_TIMESTAMP_START }",
+		"_prefixes": {
+			"INFO": "[ INFO ]\t",
+			"ERROR": "[ ERROR ]\t"
+		}
+	}
+}
