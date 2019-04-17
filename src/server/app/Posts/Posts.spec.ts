@@ -1,12 +1,14 @@
 import chai, { expect } from "chai";
 import chaiHttp from "chai-http";
-import { Response } from "superagent";
-import config from "../../../../mocha.config";
+import config from "../../../../tests/config";
 
 chai.use(chaiHttp);
 const url = `${config.server.address}:${config.server.port}`;
 const req = chai.request(`${url}`);
 
 describe("Posts", () => {
+	it("should be OK", () => {
+		expect(true).to.equal(true);
+	});
 	// cutted
 });
